@@ -21,4 +21,7 @@ ViewModel
 
 ViewModel di satu sisi adalah abstraksi dari View, lalu di sisi yang lain, sebagai penyedia pembungkus data model untuk ditautkan. ViewModel terdiri dair Model yang diubah menjadi View, dan berisi perintah yang dapat digunakan oleh View untuk mempengaruhi Model.
 
+## Perbedaan LP 12 dengan TMD
+terdapat perbedaan antara LP12 dengan TMD, seharusnya Game.java ada di viewmodel, tetapi saya menaruh di View di lp12, sisanya sudah sama
+alasannya adalah karena di game.java terdapat logic logic untuk menjalankan gamenya, di TMD folder view saya hanya ada display dan menu saja, dan saya rasa folder tmd saya sudah benar, ada di repo KeepStandsing, dan jika terdapat kesalahan mohon koreksinya
  
